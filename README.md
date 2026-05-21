@@ -54,7 +54,7 @@ Monte Carlo methods calculate the average return obtained after visiting a state
 
 ---
 
-## Program
+## Program:
 
 ```python
 
@@ -159,7 +159,7 @@ plt.colorbar()
 plt.show()
 
 ```
-## Output
+## Output:
 
 ```text
 
@@ -184,7 +184,7 @@ State 15: 0.000
 
 ```
 
-### Output Graph
+### Output Graph:
 
 The following heatmap is generated for the estimated state-value function:
 
